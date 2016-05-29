@@ -9,14 +9,20 @@ h1 {
 .container {
     height: 100vh;
     width: 100vw;
-    background-image: url("http://static.travel.usnews.com/images/articles/704/intro.jpg");
+    background-image: url(/images/mtnlake.jpg);
+    /*background-image: url("http://static.travel.usnews.com/images/articles/704/intro.jpg");*/
     background-size: cover;
+
 }
 
 .headtext {
+  color: white;
   height: 20vh;
   width: 100vw;
   text-align: center;
+}
+.headtext a {
+  color: white;
 }
 
 .linkbox {
@@ -55,3 +61,8 @@ a {
   display: block;
   text-decoration: none;
 }
+.links {
+  color: white;
+}
+
+

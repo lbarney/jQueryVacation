@@ -16,13 +16,13 @@ h1 {
 }
 
 .headtext {
-  color: white;
+  color: #36B3FF;
   height: 20vh;
   width: 100vw;
   text-align: center;
 }
 .headtext a {
-  color: white;
+  color: #FB0C13;
 }
 
 .linkbox {
@@ -62,7 +62,7 @@ a {
   text-decoration: none;
 }
 .links {
-  color: white;
+  color: #6D140B;
 }
 
 
